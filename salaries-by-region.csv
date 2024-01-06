@@ -1,0 +1,321 @@
+School Name,Region,Starting Median Salary,Mid-Career Median Salary,Mid-Career 10th Percentile Salary,Mid-Career 25th Percentile Salary,Mid-Career 75th Percentile Salary,Mid-Career 90th Percentile Salary
+Stanford University,California,70400.00,129000.00,68400.00,93100.00,184000.00,257000.00
+California Institute of Technology (CIT),California,75500.00,123000.00,N/A,104000.00,161000.00,N/A
+Harvey Mudd College,California,71800.00,122000.00,N/A,96000.00,180000.00,N/A
+"University of California, Berkeley",California,59900.00,112000.00,59500.00,81000.00,149000.00,201000.00
+Occidental College,California,51900.00,105000.00,N/A,54800.00,157000.00,N/A
+Cal Poly San Luis Obispo,California,57200.00,101000.00,55000.00,74700.00,133000.00,178000.00
+University of California at Los Angeles (UCLA),California,52600.00,101000.00,51300.00,72500.00,139000.00,193000.00
+"University of California, San Diego (UCSD)",California,51100.00,101000.00,51700.00,75400.00,131000.00,177000.00
+Pomona College,California,48600.00,101000.00,N/A,63300.00,161000.00,N/A
+University of Southern California (USC),California,54800.00,99600.00,49700.00,73800.00,140000.00,201000.00
+"University of California, Davis",California,52300.00,99600.00,52000.00,71600.00,135000.00,202000.00
+"University of California, Irvine (UCI)",California,48300.00,96700.00,47800.00,66000.00,123000.00,172000.00
+San Jose State University (SJSU),California,53500.00,95600.00,50700.00,70500.00,122000.00,156000.00
+"University of California, Santa Barbara (UCSB)",California,50500.00,95000.00,51300.00,71200.00,129000.00,173000.00
+"California State University (CSU), Chico",California,47400.00,88100.00,46800.00,62800.00,122000.00,154000.00
+"California State University, Fullerton (CSUF)",California,45700.00,87000.00,45400.00,62500.00,119000.00,158000.00
+San Francisco State University (SFSU),California,47300.00,86400.00,45100.00,62700.00,114000.00,150000.00
+San Diego State University (SDSU),California,46200.00,85200.00,45500.00,61800.00,116000.00,158000.00
+"California State University, Long Beach (CSULB)",California,45100.00,84700.00,47400.00,62500.00,113000.00,154000.00
+"California State University, East Bay (CSUEB)",California,49200.00,84300.00,46000.00,62400.00,115000.00,155000.00
+"University of California, Santa Cruz (UCSC)",California,44700.00,84100.00,46100.00,62000.00,121000.00,165000.00
+"California State University, Sacramento (CSUS)",California,47800.00,82400.00,42900.00,59600.00,111000.00,154000.00
+"University of California, Riverside (UCR)",California,46800.00,81300.00,37200.00,59900.00,109000.00,134000.00
+"California State University, Northridge (CSUN)",California,45500.00,80400.00,44500.00,57800.00,108000.00,153000.00
+"California State University, Dominguez Hills (CSUDH)",California,42700.00,72100.00,30800.00,47000.00,92200.00,132000.00
+"California State University (CSU), Stanislaus",California,38000.00,71400.00,N/A,50500.00,94100.00,N/A
+Humboldt State University,California,42600.00,71300.00,36000.00,56300.00,94400.00,117000.00
+Thomas Aquinas College,California,41500.00,67500.00,N/A,44600.00,93100.00,N/A
+Colorado School of Mines,Western,58100.00,106000.00,62200.00,87900.00,142000.00,201000.00
+University of Colorado - Boulder (UCB),Western,47100.00,97600.00,51600.00,69000.00,128000.00,187000.00
+New Mexico Institute of Mining and Technology (New Mexico Tech),Western,51000.00,93400.00,N/A,67400.00,123000.00,N/A
+Brigham Young University (BYU),Western,49400.00,88600.00,50600.00,68500.00,119000.00,164000.00
+University of Arizona,Western,47500.00,86100.00,44800.00,61700.00,117000.00,160000.00
+University of Washington (UW),Western,48800.00,85300.00,47000.00,59800.00,115000.00,149000.00
+Washington State University (WSU),Western,45300.00,84700.00,43600.00,59000.00,113000.00,162000.00
+University of Colorado - Denver,Western,46100.00,84400.00,46400.00,58600.00,105000.00,144000.00
+Arizona State University (ASU),Western,47400.00,84100.00,44600.00,60700.00,114000.00,163000.00
+Oregon State University (OSU),Western,45100.00,83300.00,46900.00,64000.00,113000.00,146000.00
+University of Utah,Western,45400.00,83200.00,43000.00,58400.00,116000.00,148000.00
+"University of Nevada, Reno (UNR)",Western,46500.00,82900.00,41900.00,54600.00,113000.00,143000.00
+Seattle University,Western,48300.00,82800.00,50600.00,62400.00,110000.00,150000.00
+University of Idaho,Western,44900.00,82000.00,43000.00,56700.00,104000.00,142000.00
+University of New Mexico (UNM),Western,41600.00,81600.00,41800.00,59100.00,105000.00,141000.00
+University of Puget Sound,Western,46600.00,81500.00,48900.00,60100.00,104000.00,137000.00
+Colorado College (CC),Western,38500.00,81400.00,N/A,43000.00,148000.00,N/A
+Reed College,Western,40500.00,81100.00,N/A,67400.00,101000.00,N/A
+Whitman College,Western,43500.00,80100.00,N/A,64800.00,111000.00,N/A
+New Mexico State University,Western,44300.00,79500.00,37400.00,53800.00,102000.00,131000.00
+Colorado State University (CSU),Western,44800.00,79000.00,43800.00,57100.00,112000.00,150000.00
+University of Wyoming (UW),Western,44500.00,78700.00,41500.00,54000.00,105000.00,145000.00
+Utah State University,Western,43800.00,78700.00,41600.00,55400.00,101000.00,132000.00
+University of Oregon,Western,42200.00,78400.00,38100.00,56200.00,117000.00,186000.00
+Montana State University - Bozeman,Western,46600.00,77500.00,40200.00,58100.00,111000.00,151000.00
+Gonzaga University,Western,44900.00,76000.00,47000.00,57400.00,103000.00,138000.00
+University of Hawaii,Western,43800.00,76000.00,40400.00,56300.00,104000.00,128000.00
+Western Washington University,Western,42700.00,75400.00,41300.00,56700.00,99200.00,119000.00
+Regis University,Western,48300.00,73800.00,41000.00,55500.00,94800.00,117000.00
+Idaho State University,Western,44900.00,73400.00,35400.00,49600.00,101000.00,143000.00
+"University of Alaska, Anchorage",Western,45900.00,72600.00,39800.00,56600.00,99300.00,137000.00
+Lewis & Clark College,Western,38900.00,72600.00,38200.00,53400.00,104000.00,140000.00
+University of Montana,Western,37300.00,71900.00,37000.00,51500.00,96400.00,138000.00
+"University of Nevada, Las Vegas (UNLV)",Western,45200.00,71600.00,39000.00,52400.00,100000.00,128000.00
+Portland State University (PSU),Western,42600.00,70900.00,40700.00,52300.00,94400.00,123000.00
+Eastern Washington University,Western,38600.00,70900.00,36000.00,50500.00,93100.00,117000.00
+Fort Lewis College,Western,42000.00,69800.00,N/A,55000.00,94000.00,N/A
+Boise State University (BSU),Western,40800.00,69500.00,37400.00,48700.00,87500.00,110000.00
+Utah Valley State College,Western,42400.00,67100.00,N/A,44100.00,84900.00,N/A
+Evergreen State College,Western,39500.00,63900.00,38800.00,47200.00,91600.00,120000.00
+Southern Utah University,Western,41900.00,56500.00,N/A,39700.00,78400.00,N/A
+Montana State University - Billings,Western,37900.00,50600.00,N/A,31800.00,78500.00,N/A
+University of Notre Dame,Midwestern,56300.00,116000.00,66400.00,85100.00,163000.00,235000.00
+University Of Chicago,Midwestern,53400.00,113000.00,62200.00,83300.00,174000.00,255000.00
+Carleton College,Midwestern,47500.00,103000.00,N/A,69400.00,141000.00,N/A
+Illinois Institute of Technology (IIT),Midwestern,56000.00,97800.00,56100.00,77400.00,121000.00,165000.00
+Case Western Reserve University,Midwestern,56200.00,96500.00,54900.00,76500.00,123000.00,168000.00
+University of Illinois at Urbana-Champaign (UIUC),Midwestern,52900.00,96100.00,48200.00,68900.00,132000.00,177000.00
+Northwestern University,Midwestern,52700.00,95900.00,51900.00,69100.00,144000.00,205000.00
+University of Missouri - Rolla (UMR),Midwestern,57100.00,95800.00,67600.00,80400.00,122000.00,166000.00
+South Dakota School of Mines & Technology,Midwestern,55800.00,93400.00,71500.00,81900.00,122000.00,147000.00
+University of Michigan,Midwestern,52700.00,93000.00,50900.00,69400.00,128000.00,182000.00
+Purdue University,Midwestern,51400.00,90500.00,49900.00,67400.00,121000.00,168000.00
+Marquette University,Midwestern,48500.00,88400.00,49500.00,67400.00,121000.00,184000.00
+DePauw University,Midwestern,41400.00,88200.00,49500.00,57400.00,133000.00,185000.00
+University of Wisconsin (UW) - Madison,Midwestern,48900.00,87800.00,47400.00,62400.00,118000.00,170000.00
+Bradley University,Midwestern,47000.00,87300.00,45900.00,64900.00,113000.00,151000.00
+St. Olaf College,Midwestern,45300.00,86200.00,41300.00,61000.00,120000.00,185000.00
+Michigan State University (MSU),Midwestern,46300.00,85300.00,44200.00,61500.00,119000.00,170000.00
+DePaul University,Midwestern,46400.00,84800.00,50300.00,63900.00,115000.00,160000.00
+Iowa State University,Midwestern,45400.00,84600.00,44400.00,60000.00,109000.00,147000.00
+University of Minnesota,Midwestern,46200.00,84200.00,49000.00,63200.00,112000.00,148000.00
+"Indiana University (IU), Bloomington",Midwestern,46300.00,84000.00,43600.00,60400.00,119000.00,178000.00
+University of Iowa (UI),Midwestern,44700.00,83900.00,43300.00,61100.00,116000.00,163000.00
+Ohio State University (OSU),Midwestern,44900.00,83700.00,45500.00,60700.00,116000.00,162000.00
+Denison University,Midwestern,42000.00,83500.00,N/A,62100.00,122000.00,N/A
+University of Illinois at Chicago,Midwestern,47500.00,81700.00,44700.00,58800.00,110000.00,146000.00
+Oberlin College,Midwestern,43400.00,81600.00,N/A,46400.00,128000.00,N/A
+University of Kansas,Midwestern,42400.00,81600.00,44800.00,57200.00,115000.00,156000.00
+University of Missouri - Columbia,Midwestern,41700.00,81000.00,43500.00,57100.00,111000.00,156000.00
+University of Nebraska,Midwestern,45700.00,80900.00,42200.00,56600.00,113000.00,156000.00
+Northern Illinois University (NIU),Midwestern,43600.00,80800.00,43900.00,60200.00,111000.00,161000.00
+Gustavus Adolphus College,Midwestern,44500.00,80600.00,N/A,49300.00,101000.00,N/A
+University of North Dakota,Midwestern,44000.00,80600.00,43400.00,56400.00,111000.00,157000.00
+Kansas State University (KSU),Midwestern,43300.00,79000.00,37200.00,54100.00,106000.00,138000.00
+University of Wisconsin (UW) - Platteville,Midwestern,45800.00,78500.00,48400.00,61200.00,100000.00,139000.00
+Wittenberg University,Midwestern,39200.00,78200.00,N/A,54100.00,131000.00,N/A
+North Dakota State University (NDSU),Midwestern,45100.00,77800.00,39000.00,55800.00,100000.00,123000.00
+Grinnell College,Midwestern,42600.00,76600.00,N/A,65100.00,116000.00,N/A
+Wayne State University,Midwestern,42800.00,76100.00,40100.00,56200.00,101000.00,139000.00
+University of Toledo,Midwestern,43100.00,75900.00,40100.00,54100.00,100000.00,133000.00
+University of Wisconsin (UW) - Whitewater,Midwestern,40800.00,75500.00,38200.00,53500.00,99300.00,150000.00
+Minnesota State University - Mankato,Midwestern,43300.00,74700.00,39500.00,53800.00,95700.00,140000.00
+University of Wisconsin (UW) - Milwaukee,Midwestern,42300.00,74600.00,40600.00,54000.00,93700.00,123000.00
+Western Michigan University (WMU),Midwestern,42300.00,73800.00,40100.00,52500.00,103000.00,135000.00
+South Dakota State University (SDSU),Midwestern,41100.00,73500.00,34100.00,49900.00,99400.00,129000.00
+Ohio University,Midwestern,42200.00,73400.00,36600.00,52800.00,106000.00,150000.00
+Illinois State University,Midwestern,42000.00,73400.00,39100.00,55200.00,105000.00,142000.00
+Cleveland State University,Midwestern,43500.00,73100.00,39500.00,51600.00,97000.00,137000.00
+University of Nebraska at Omaha,Midwestern,41500.00,72600.00,39500.00,54400.00,97400.00,126000.00
+Southern Illinois University Carbondale,Midwestern,43000.00,72500.00,38300.00,51300.00,99300.00,139000.00
+Eastern Michigan University,Midwestern,40300.00,72100.00,37900.00,52800.00,95400.00,135000.00
+Bowling Green State University,Midwestern,39800.00,72100.00,38200.00,51800.00,101000.00,146000.00
+St. Cloud State University,Midwestern,41800.00,71400.00,38700.00,49400.00,101000.00,126000.00
+University of Wisconsin (UW) - Parkside,Midwestern,40700.00,71400.00,40900.00,53100.00,84900.00,119000.00
+University of Akron,Midwestern,41100.00,70300.00,40600.00,53300.00,95200.00,127000.00
+Missouri State University (MSU),Midwestern,36100.00,69500.00,33300.00,46900.00,102000.00,134000.00
+University of Wisconsin (UW) - La Crosse,Midwestern,42200.00,69300.00,37500.00,47200.00,93100.00,133000.00
+University of Wisconsin (UW) - Stout,Midwestern,43600.00,68300.00,40900.00,50600.00,91600.00,136000.00
+Robert Morris College (RMC),Midwestern,38500.00,68200.00,37300.00,47100.00,95000.00,128000.00
+University of Missouri - St. Louis (UMSL),Midwestern,41400.00,67100.00,36800.00,49600.00,97600.00,144000.00
+University of Wisconsin (UW) - Oshkosh,Midwestern,39300.00,66400.00,37700.00,49700.00,90100.00,138000.00
+University of Missouri - Kansas City (UMKC),Midwestern,38900.00,65800.00,36300.00,48100.00,95800.00,124000.00
+University of Wisconsin (UW) - Eau Claire,Midwestern,41400.00,64800.00,35000.00,47300.00,93100.00,125000.00
+Ball State University (BSU),Midwestern,39100.00,64500.00,35500.00,48200.00,89300.00,128000.00
+Park University,Midwestern,44300.00,64300.00,37200.00,45600.00,86400.00,113000.00
+University of Wisconsin (UW) - Stevens Point,Midwestern,39800.00,64000.00,38400.00,45100.00,95400.00,128000.00
+Kent State University,Midwestern,38700.00,62600.00,36100.00,45800.00,87000.00,124000.00
+University of Wisconsin (UW) - Green Bay,Midwestern,35800.00,60600.00,35500.00,46800.00,81800.00,102000.00
+Indiana Wesleyan University (IWU),Midwestern,39800.00,58500.00,39600.00,47800.00,78600.00,93400.00
+Pittsburg State University,Midwestern,40400.00,58200.00,25600.00,46000.00,84600.00,117000.00
+Davenport University,Midwestern,39700.00,46600.00,31600.00,38100.00,65600.00,85700.00
+Black Hills State University,Midwestern,35300.00,43900.00,N/A,32200.00,60900.00,N/A
+Rice University,Southern,64000.00,110000.00,55900.00,82100.00,141000.00,216000.00
+Georgetown University,Southern,55000.00,110000.00,60300.00,85800.00,174000.00,248000.00
+Duke University,Southern,58900.00,106000.00,56000.00,77400.00,149000.00,218000.00
+Georgia Institute of Technology,Southern,58300.00,106000.00,67200.00,85200.00,137000.00,183000.00
+Washington and Lee University,Southern,53600.00,104000.00,N/A,82800.00,146000.00,N/A
+Vanderbilt University,Southern,51200.00,104000.00,49900.00,68100.00,147000.00,222000.00
+Davidson College,Southern,46100.00,104000.00,N/A,70500.00,146000.00,N/A
+University of Virginia (UVA),Southern,52700.00,103000.00,52200.00,71800.00,146000.00,215000.00
+George Washington University (GWU),Southern,47000.00,97900.00,48400.00,69600.00,132000.00,194000.00
+Texas A&M University,Southern,49700.00,96100.00,51100.00,71300.00,131000.00,171000.00
+Tulane University,Southern,49100.00,95800.00,46500.00,64400.00,134000.00,185000.00
+Virginia Polytechnic Institute and State University (Virginia Tech),Southern,53500.00,95400.00,50600.00,71400.00,124000.00,163000.00
+"University of Maryland, College Park",Southern,52000.00,95000.00,50400.00,68300.00,126000.00,166000.00
+University of Richmond,Southern,48600.00,94600.00,44500.00,59400.00,151000.00,211000.00
+University of Texas (UT) - Austin,Southern,49700.00,93900.00,50100.00,67400.00,129000.00,188000.00
+Emory University,Southern,52000.00,91600.00,52500.00,63300.00,128000.00,192000.00
+"American University, Washington D.C.",Southern,45300.00,90800.00,45200.00,62400.00,134000.00,169000.00
+University of Tulsa,Southern,42400.00,88700.00,42300.00,60300.00,120000.00,197000.00
+Baylor University,Southern,48300.00,88600.00,46300.00,60700.00,130000.00,200000.00
+University of Florida (UF),Southern,47100.00,87900.00,45400.00,62900.00,120000.00,172000.00
+Louisiana State University (LSU),Southern,46900.00,87800.00,43700.00,61300.00,120000.00,165000.00
+George Mason University,Southern,47800.00,86900.00,51300.00,67200.00,114000.00,150000.00
+Clemson University,Southern,48400.00,86000.00,50500.00,61800.00,111000.00,150000.00
+University of Georgia (UGA),Southern,44100.00,86000.00,43100.00,57800.00,118000.00,164000.00
+Auburn University,Southern,45400.00,84700.00,45400.00,62700.00,109000.00,145000.00
+University of Delaware,Southern,45900.00,84500.00,44500.00,64000.00,119000.00,165000.00
+Randolph-Macon College,Southern,42600.00,83600.00,N/A,54100.00,123000.00,N/A
+North Carolina State University (NCSU),Southern,47200.00,83300.00,49200.00,64800.00,112000.00,153000.00
+University of Oklahoma,Southern,44700.00,82900.00,41200.00,60300.00,114000.00,167000.00
+University of Arkansas,Southern,44100.00,82800.00,43200.00,60700.00,113000.00,160000.00
+University of Alabama at Huntsville (UAH),Southern,43100.00,82700.00,46100.00,67800.00,106000.00,132000.00
+Howard University,Southern,46900.00,81800.00,43300.00,60000.00,109000.00,138000.00
+University of North Carolina at Chapel Hill (UNCH),Southern,42900.00,81500.00,43400.00,57500.00,117000.00,155000.00
+"University of Alabama, Tuscaloosa",Southern,41300.00,81400.00,40100.00,56500.00,117000.00,161000.00
+University of Texas at Arlington (UTA),Southern,45400.00,80800.00,46400.00,61200.00,106000.00,138000.00
+Oklahoma State University,Southern,42800.00,80700.00,40100.00,56500.00,114000.00,151000.00
+Tennessee Technological University,Southern,46200.00,80000.00,42100.00,62600.00,99500.00,121000.00
+University of Houston (UH),Southern,46000.00,79900.00,42000.00,56200.00,106000.00,141000.00
+University of Mississippi,Southern,41400.00,79700.00,40400.00,53500.00,108000.00,186000.00
+Lamar University,Southern,46500.00,79400.00,38700.00,51600.00,114000.00,158000.00
+Mississippi State University (MSU),Southern,44500.00,79300.00,43300.00,58800.00,108000.00,151000.00
+University of Kentucky (UK),Southern,42800.00,78300.00,43000.00,57300.00,107000.00,149000.00
+Texas Christian University (TCU),Southern,45100.00,78100.00,42600.00,56600.00,122000.00,183000.00
+West Virginia University (WVU),Southern,43100.00,78100.00,39700.00,55700.00,106000.00,141000.00
+University of Maryland Baltimore County (UMBC),Southern,47000.00,77800.00,46900.00,59100.00,105000.00,130000.00
+University of Louisiana (UL) at Lafayette,Southern,41100.00,76300.00,42000.00,54500.00,107000.00,163000.00
+Florida International University (FIU),Southern,43200.00,75500.00,40500.00,55800.00,98200.00,136000.00
+University of Tennessee,Southern,43800.00,74600.00,41900.00,53200.00,106000.00,153000.00
+University of Arkansas - Monticello (UAM),Southern,39200.00,74500.00,N/A,46100.00,110000.00,N/A
+University of North Carolina at Charlotte (UNCC),Southern,43100.00,74000.00,38200.00,53200.00,99500.00,133000.00
+Georgia State University,Southern,41800.00,74000.00,43000.00,55300.00,99900.00,145000.00
+LeTourneau University,Southern,49500.00,73800.00,41200.00,52700.00,95200.00,126000.00
+Florida State University (FSU),Southern,42100.00,73000.00,39600.00,52800.00,107000.00,156000.00
+University of Texas at El Paso (UTEP),Southern,43400.00,72100.00,37700.00,50400.00,99500.00,133000.00
+University of Central Florida (UCF),Southern,42600.00,71700.00,39500.00,51500.00,98400.00,125000.00
+University of South Carolina,Southern,40000.00,71700.00,36300.00,49900.00,98400.00,131000.00
+Florida Atlantic University (FAU),Southern,42600.00,71100.00,40700.00,53000.00,99500.00,137000.00
+University of South Florida (USF),Southern,41100.00,71100.00,39600.00,51500.00,98100.00,131000.00
+University of Texas at San Antonio (UTSA),Southern,42500.00,70700.00,39100.00,49800.00,92700.00,121000.00
+University of Alabama at Birmingham (UAB),Southern,39200.00,70100.00,43000.00,53400.00,91400.00,125000.00
+University of Memphis (U of M),Southern,41400.00,69700.00,36100.00,49100.00,93500.00,127000.00
+Appalachian State University,Southern,40400.00,69100.00,37200.00,50400.00,90800.00,115000.00
+Virginia Commonwealth University (VCU),Southern,42000.00,68400.00,37400.00,51900.00,100000.00,123000.00
+East Carolina University (ECU),Southern,40200.00,67500.00,38400.00,52000.00,98700.00,151000.00
+Western Carolina University,Southern,36900.00,66600.00,39000.00,49500.00,94400.00,133000.00
+Jacksonville University,Southern,46700.00,66200.00,36700.00,47200.00,88500.00,121000.00
+University of North Carolina at Wilmington (UNCW),Southern,37500.00,64400.00,32100.00,46600.00,97100.00,129000.00
+Oklahoma City University,Southern,40000.00,64300.00,N/A,45400.00,80600.00,N/A
+Arkansas State University (ASU),Southern,38700.00,63300.00,33600.00,45300.00,83900.00,118000.00
+Tarleton State University (TSU),Southern,40800.00,62400.00,32100.00,47400.00,80400.00,126000.00
+Morehead State University,Southern,34800.00,60600.00,34300.00,46500.00,72000.00,91300.00
+Mississippi College,Southern,35400.00,60400.00,N/A,43900.00,80400.00,N/A
+Dallas Baptist University,Southern,39400.00,60200.00,38500.00,50300.00,81800.00,98100.00
+Austin Peay State University,Southern,37700.00,59200.00,32200.00,40500.00,73900.00,96200.00
+Saint Leo University,Southern,40900.00,57800.00,34400.00,41800.00,80600.00,113000.00
+Tusculum College,Southern,36900.00,55500.00,36200.00,43000.00,87300.00,124000.00
+Virginia Wesleyan College (VWC),Southern,34600.00,54900.00,N/A,37100.00,88900.00,N/A
+"Lee University (Cleveland, TN)",Southern,34500.00,53900.00,N/A,44500.00,76800.00,N/A
+Florida Metropolitan University (FMU),Southern,36600.00,51000.00,32800.00,36800.00,70400.00,102000.00
+Dartmouth College,Northeastern,58000.00,134000.00,63100.00,90200.00,234000.00,321000.00
+Princeton University,Northeastern,66500.00,131000.00,68900.00,100000.00,190000.00,261000.00
+Massachusetts Institute of Technology (MIT),Northeastern,72200.00,126000.00,76800.00,99200.00,168000.00,220000.00
+Yale University,Northeastern,59100.00,126000.00,58000.00,80600.00,198000.00,326000.00
+Harvard University,Northeastern,63400.00,124000.00,54800.00,86200.00,179000.00,288000.00
+University of Pennsylvania,Northeastern,60900.00,120000.00,55900.00,79200.00,192000.00,282000.00
+"Polytechnic University of New York, Brooklyn",Northeastern,62400.00,114000.00,66800.00,94300.00,143000.00,190000.00
+Cooper Union,Northeastern,62200.00,114000.00,N/A,80200.00,142000.00,N/A
+Worcester Polytechnic Institute (WPI),Northeastern,61000.00,114000.00,80000.00,91200.00,137000.00,180000.00
+Carnegie Mellon University (CMU),Northeastern,61800.00,111000.00,63300.00,80100.00,150000.00,209000.00
+Rensselaer Polytechnic Institute (RPI),Northeastern,61100.00,110000.00,71600.00,85500.00,140000.00,182000.00
+Cornell University,Northeastern,60300.00,110000.00,56800.00,79800.00,160000.00,210000.00
+Bucknell University,Northeastern,54100.00,110000.00,62800.00,80600.00,156000.00,251000.00
+Brown University,Northeastern,56200.00,109000.00,55400.00,74400.00,159000.00,228000.00
+Colgate University,Northeastern,52800.00,108000.00,60000.00,76700.00,167000.00,265000.00
+Columbia University,Northeastern,59400.00,107000.00,50300.00,71900.00,161000.00,241000.00
+Amherst College,Northeastern,54500.00,107000.00,N/A,84900.00,162000.00,N/A
+Lafayette College,Northeastern,53900.00,107000.00,70600.00,79300.00,144000.00,204000.00
+Bowdoin College,Northeastern,48100.00,107000.00,N/A,74600.00,146000.00,N/A
+College of the Holy Cross,Northeastern,50200.00,106000.00,N/A,65600.00,143000.00,N/A
+Stevens Institute of Technology,Northeastern,60600.00,105000.00,68700.00,81900.00,138000.00,185000.00
+Lehigh University,Northeastern,59200.00,105000.00,69500.00,85000.00,160000.00,229000.00
+Swarthmore College,Northeastern,49700.00,104000.00,N/A,67200.00,167000.00,N/A
+Boston College,Northeastern,52700.00,103000.00,48900.00,70000.00,143000.00,195000.00
+Williams College,Northeastern,51700.00,102000.00,N/A,76400.00,143000.00,N/A
+Villanova University,Northeastern,55800.00,101000.00,56800.00,76200.00,156000.00,226000.00
+Fordham University,Northeastern,47800.00,99900.00,48600.00,65900.00,142000.00,198000.00
+"Wesleyan University (Middletown, Connecticut)",Northeastern,46500.00,97900.00,42000.00,62500.00,126000.00,215000.00
+Wentworth Institute of Technology,Northeastern,53000.00,96700.00,55200.00,74000.00,117000.00,153000.00
+Bates College,Northeastern,47300.00,96500.00,N/A,60700.00,162000.00,N/A
+Binghamton University,Northeastern,53600.00,95900.00,50900.00,71200.00,146000.00,201000.00
+Union College,Northeastern,47200.00,95800.00,48700.00,75200.00,135000.00,230000.00
+New York University (NYU),Northeastern,50300.00,95600.00,47500.00,65000.00,142000.00,216000.00
+Vassar College,Northeastern,46000.00,94600.00,N/A,60600.00,123000.00,N/A
+Middlebury College,Northeastern,47700.00,94200.00,N/A,69100.00,129000.00,N/A
+Mount Holyoke College,Northeastern,42400.00,94200.00,N/A,57100.00,131000.00,N/A
+Boston University,Northeastern,49000.00,93900.00,48000.00,64900.00,130000.00,193000.00
+Drexel University,Northeastern,53400.00,93500.00,54900.00,72500.00,122000.00,161000.00
+"St. John's University, New York",Northeastern,48000.00,93400.00,48000.00,65400.00,124000.00,181000.00
+Long Island University,Northeastern,47300.00,93200.00,46300.00,62100.00,122000.00,169000.00
+Stony Brook University,Northeastern,49500.00,93000.00,47200.00,67100.00,129000.00,181000.00
+Franklin and Marshall College,Northeastern,49100.00,92800.00,N/A,55800.00,185000.00,N/A
+Hofstra University,Northeastern,46800.00,92700.00,48900.00,67000.00,135000.00,189000.00
+State University of New York (SUNY) at Albany,Northeastern,44500.00,92200.00,47000.00,63100.00,135000.00,209000.00
+Rutgers University,Northeastern,50300.00,91800.00,48100.00,65100.00,128000.00,176000.00
+Pratt Institute,Northeastern,43800.00,89900.00,48600.00,65400.00,123000.00,155000.00
+Pace University,Northeastern,53200.00,89700.00,44200.00,65400.00,129000.00,187000.00
+Seton Hall University,Northeastern,48900.00,89200.00,55700.00,70600.00,133000.00,195000.00
+Rider University,Northeastern,43600.00,88900.00,47100.00,63100.00,127000.00,150000.00
+University of Connecticut (UConn),Northeastern,48000.00,88800.00,46100.00,66400.00,120000.00,162000.00
+Providence College,Northeastern,48000.00,88600.00,42800.00,62900.00,138000.00,194000.00
+University of Massachusetts (UMass) - Amherst,Northeastern,46600.00,88200.00,43100.00,61300.00,122000.00,168000.00
+Ithaca College,Northeastern,42700.00,87400.00,50200.00,62400.00,128000.00,174000.00
+University of Massachusetts (UMass) - Lowell,Northeastern,45400.00,86600.00,50900.00,65000.00,113000.00,158000.00
+Northeastern University,Northeastern,50500.00,86400.00,47100.00,62700.00,117000.00,159000.00
+Syracuse University,Northeastern,45700.00,85900.00,46400.00,59400.00,119000.00,178000.00
+Colby College,Northeastern,46400.00,85800.00,N/A,63500.00,129000.00,N/A
+Gettysburg College,Northeastern,44700.00,85800.00,N/A,66300.00,132000.00,N/A
+Pennsylvania State University (PSU),Northeastern,49900.00,85700.00,46300.00,62000.00,117000.00,160000.00
+University of Rhode Island (URI),Northeastern,43900.00,85300.00,45400.00,60100.00,112000.00,157000.00
+Siena College,Northeastern,45500.00,85200.00,38700.00,58400.00,129000.00,189000.00
+La Salle University (Philadelphia),Northeastern,43400.00,84700.00,45300.00,57500.00,106000.00,151000.00
+Rochester Institute of Technology (RIT),Northeastern,48900.00,84600.00,45000.00,62100.00,112000.00,159000.00
+Duquesne University,Northeastern,40700.00,84400.00,42600.00,59500.00,107000.00,131000.00
+State University of New York (SUNY) at Farmingdale,Northeastern,47300.00,84200.00,50200.00,59800.00,110000.00,162000.00
+Smith College,Northeastern,44000.00,83900.00,45100.00,59800.00,129000.00,184000.00
+Hamilton College,Northeastern,49200.00,83700.00,N/A,51900.00,123000.00,N/A
+Wellesley College,Northeastern,42800.00,83500.00,N/A,58600.00,125000.00,N/A
+Widener University,Northeastern,52900.00,83400.00,42600.00,61400.00,106000.00,138000.00
+University of New Haven,Northeastern,44400.00,82900.00,48500.00,66100.00,113000.00,157000.00
+Dowling College,Northeastern,41100.00,82800.00,46500.00,60600.00,117000.00,142000.00
+University of Vermont (UVM),Northeastern,44800.00,82700.00,44700.00,58000.00,122000.00,194000.00
+State University of New York (SUNY) at Buffalo,Northeastern,46200.00,81700.00,45900.00,61400.00,110000.00,147000.00
+State University of New York (SUNY) at Geneseo,Northeastern,42300.00,81300.00,39300.00,47600.00,117000.00,173000.00
+Fashion Institute of Technology,Northeastern,42800.00,81000.00,38800.00,60500.00,106000.00,138000.00
+Philadelphia University,Northeastern,45100.00,80300.00,45800.00,61900.00,108000.00,141000.00
+Ursinus College,Northeastern,42100.00,80000.00,35600.00,54300.00,100000.00,160000.00
+Adelphi University,Northeastern,40600.00,79200.00,44200.00,54800.00,114000.00,160000.00
+Juniata College,Northeastern,41800.00,78900.00,N/A,67200.00,110000.00,N/A
+Fairleigh Dickinson University,Northeastern,45700.00,78700.00,40200.00,56300.00,112000.00,171000.00
+University of New Hampshire (UNH),Northeastern,41800.00,78300.00,41700.00,56400.00,114000.00,147000.00
+University of Massachusetts (UMass) - Boston,Northeastern,45600.00,78200.00,36300.00,53800.00,109000.00,151000.00
+State University of New York (SUNY) at Oswego,Northeastern,38000.00,77800.00,40400.00,53000.00,115000.00,169000.00
+University of Massachusetts (UMass) - Dartmouth,Northeastern,43200.00,77700.00,43300.00,56200.00,107000.00,132000.00
+State University of New York (SUNY) at Oneonta,Northeastern,37500.00,76700.00,40000.00,54300.00,97700.00,155000.00
+Quinnipiac University,Northeastern,43000.00,76500.00,47900.00,57400.00,117000.00,155000.00
+State University of New York (SUNY) at Plattsburgh,Northeastern,40800.00,76200.00,38400.00,54100.00,105000.00,136000.00
+Sacred Heart University,Northeastern,46000.00,75300.00,39700.00,54800.00,105000.00,150000.00
+Skidmore College,Northeastern,41600.00,74600.00,N/A,42800.00,147000.00,N/A
+Moravian College,Northeastern,42500.00,74400.00,N/A,56700.00,94900.00,N/A
+Penn State - Harrisburg,Northeastern,45700.00,74000.00,44000.00,53100.00,104000.00,150000.00
+Suffolk University,Northeastern,42100.00,74000.00,48700.00,57800.00,95100.00,145000.00
+Fitchburg State College,Northeastern,42400.00,72600.00,43300.00,56100.00,99600.00,151000.00
+Roger Williams University,Northeastern,42000.00,72300.00,39800.00,48500.00,102000.00,138000.00
+University Of Maine,Northeastern,41200.00,72100.00,41700.00,55600.00,99300.00,141000.00
+State University of New York (SUNY) at Potsdam,Northeastern,38000.00,70300.00,35100.00,51200.00,100000.00,179000.00
+Niagara University,Northeastern,36900.00,69700.00,44000.00,57000.00,92000.00,128000.00
+State University of New York (SUNY) at Fredonia,Northeastern,37800.00,66200.00,32800.00,44200.00,93300.00,181000.00
+University of Southern Maine,Northeastern,39400.00,63600.00,40400.00,47900.00,85700.00,117000.00
+Mercy College,Northeastern,43700.00,62600.00,35600.00,47300.00,99000.00,134000.00
